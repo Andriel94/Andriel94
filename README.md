@@ -1,12 +1,17 @@
 # Olá mundo!
 
-Meu nome é Andriel. Atualmente estou cursando Técnico em Informática.
+Meu nome é **Andriel**. Atualmente estou cursando Técnico em Informática.
 
-*Eu gosto muito de programar.*
+*Eu gosto muito de programar*
 
 Esses são os meus interesses:
 * Jogar videogame
-* Olhar streaming
+* Fazer streaming
+* Editar Videos
+* Programar Jogos
+* Hardware
+* Robotica
+* Eletronica
 * Skate
 
-![texto alternativo](https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/07/rayssa_leal_olimpiada-e1722172556384.jpg)
+![texto alternativo](https://open.ieee.org/wp-content/uploads/Universidade-Federal-de-Santa-Maria-UFSM.png)
