@@ -12,16 +12,8 @@ Meu nome é **Andriel**. Atualmente estou cursando Técnico em Informática.
 ## Meu site de Vendas <<
 Personalizados maneiros! [AZZY STORE](https://azzystore.qzz.io/)<----
 
-## Esses são os meus interesses:
-* Robótica
-* Jogar videogame
-* Fazer streaming
-* Editar Vídeos
-* Programar Jogos
-* Hardware
-* Robótica
-* Eletrônica
-* Skate
-* TI
+> [!TIP]
+Esses são os meus interesses: Robótica , Jogar videogame , Fazer streaming , Editar Vídeos , Programar Jogos(GAMEDEV) , Hardware , Robótica , Eletrônica , Skate , TI.
+
 
 ![texto alternativo](https://open.ieee.org/wp-content/uploads/Universidade-Federal-de-Santa-Maria-UFSM.png)
