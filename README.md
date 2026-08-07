@@ -2,7 +2,7 @@
 
 Meu nome é **Andriel**. Atualmente estou cursando Técnico em Informática.
 
-*Eu gosto muito de programar* 📎☕
+## *Eu gosto muito de programar* 📎☕
 
 ## Minhas Redes >:)
 [INSTAGRAM](https://www.instagram.com/andriel94_/)-
@@ -10,7 +10,7 @@ Meu nome é **Andriel**. Atualmente estou cursando Técnico em Informática.
 [TWITCH](https://www.twitch.tv/andriel94)-
 
 ## Meu site de Vendas <<
-Personalizados maneiros!
+# Personalizados maneiros!
 [AZZY STORE](https://azzystore.qzz.io/)  <----
 
 
