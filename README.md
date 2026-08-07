@@ -10,11 +10,9 @@ Meu nome é **Andriel**. Atualmente estou cursando Técnico em Informática.
 [TWITCH](https://www.twitch.tv/andriel94)-
 
 ## Meu site de Vendas <<
-# Personalizados maneiros!
-[AZZY STORE](https://azzystore.qzz.io/)  <----
+Personalizados maneiros! [AZZY STORE](https://azzystore.qzz.io/)<----
 
-
-Esses são os meus interesses:
+## Esses são os meus interesses:
 * Robótica
 * Jogar videogame
 * Fazer streaming
