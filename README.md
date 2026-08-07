@@ -4,10 +4,14 @@ Meu nome é **Andriel**. Atualmente estou cursando Técnico em Informática.
 
 ## *Eu gosto muito de programar* 📎☕
 
-## Minhas Redes >:)
-[INSTAGRAM](https://www.instagram.com/andriel94_/)-
-[YOUTUBE](https://www.youtube.com/c/andriel94)-
-[TWITCH](https://www.twitch.tv/andriel94)-
+| Minhas Redes | Link |
+| --- | --- |
+| `Instagram` | https://www.instagram.com/andriel94_/ |
+| `YOUTUB` | https://www.youtube.com/c/andriel94 |
+| `TWITCH` | https://www.twitch.tv/andriel94 |
+
+## Arvore de links >:)
+[+ REDES](https://andriel94.carrd.co/) <------------------------
 
 ## Meu site de Vendas <<
 Personalizados maneiros! [AZZY STORE](https://azzystore.qzz.io/)<----
