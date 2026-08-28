@@ -29,7 +29,7 @@ Meu nome é **Andriel**. Atualmente estou cursando Técnico em Informática.
 
 
 > [!TIP]
-Esses são os meus interesses: Robótica , Jogar videogame , Fazer streaming , Editar Vídeos , Programar Jogos(GAMEDEV) , Hardware , Robótica , Eletrônica , Skate , TI.
+Esses são os meus interesses: Robótica , Jogar videogame , Fazer streaming , Editar Vídeos , Programar Jogos(GAMEDEV) , Animador3D , Hardware , Robótica , Eletrônica , Skate , TI.
 
 | Minhas Redes | Link |
 | --- | --- |
